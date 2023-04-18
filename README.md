@@ -3,7 +3,6 @@
 <img src="resources/A%20long%20picture%20in%20train%20set%20.jpg" width="1500"/>
 </div>
 
-![image](public/image/20190528145810708.png)
 ## Brief introduction
 Mix MSTAR is a new synthetic SAR vehicle dataset,consisting of 100 large images with 5392 vehicles of 20 fine-grained categories. The geographically contiguous test set can be stitched into four large-scale images. The arrangement of vehicles is diverse, with both tight and sparse groupings and various scenes such as urban, highway, grassland, and forest.
 ## How to obtain
