@@ -1,6 +1,6 @@
 ## A stitched image from training pictures
 <div align=center>
-<img src="lob/main/resources/A%20long%20picture%20in%20train%20set%20.jpg" width="800"/>
+<img src="lob/main/resources/A%20long%20picture%20in%20train%20set%20.jpg" width="450"/>
 </div>
 
 ![image](public/image/20190528145810708.png)
