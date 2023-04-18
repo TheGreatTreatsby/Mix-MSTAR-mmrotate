@@ -1,6 +1,6 @@
 ## A stitched image from training pictures
 <div align=center>
-<img src="lob/main/resources/A%20long%20picture%20in%20train%20set%20.jpg" width="450"/>
+<img src="https://github.com/TheGreatTreatsby/Mix-MSTAR-mmrotate/blob/main/resources/A%20long%20picture%20in%20train%20set%20.jpg" width="450"/>
 </div>
 
 ![image](public/image/20190528145810708.png)
@@ -22,7 +22,6 @@ If you use this toolbox or benchmark in your research, please cite this project.
   year={2022}
 }
 ```
-
 
 
 
