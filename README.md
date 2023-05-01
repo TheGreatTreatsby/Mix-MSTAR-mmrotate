@@ -7,6 +7,7 @@
 Mix MSTAR is a new synthetic SAR vehicle dataset,consisting of 100 large images with 5392 vehicles of 20 fine-grained categories. The geographically contiguous test set can be stitched into four large-scale images. The arrangement of vehicles is diverse, with both tight and sparse groupings and various scenes such as urban, highway, grassland, and forest.
 ## How to obtain
 After our paper was published，You can download [Mix MSTAR](https:) using Baidu Cloud. This won't wait too long.(2023/5/1)
+
 You can also download the 9 Models training logs on Mix MSTAR right now  [Logs](https://pan.baidu.com/s/1EoQFAeusWSXxAVb-aKy4bA),password:0000
 
 ## Citation
