@@ -10,6 +10,7 @@ Currently, the dataset can be obtained through losonjay@163.com.(2023/12/3)
 ## Citation
 
 If you use this dataset or article in your research, please cite this project.
+```bibtex
 @article{liu2023mix,
   title={Mix MSTAR: A Synthetic Benchmark Dataset for Multi-Class Rotation Vehicle Detection in Large-Scale SAR Images},
   author={Liu, Zhigang and Luo, Shengjie and Wang, Yiting},
@@ -20,7 +21,7 @@ If you use this dataset or article in your research, please cite this project.
   year={2023},
   publisher={MDPI}
 }
-
+```
 If you use this toolbox or benchmark in your research, please cite this project.
 
 ```bibtex
